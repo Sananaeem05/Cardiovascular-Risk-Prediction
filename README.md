@@ -33,7 +33,7 @@ Our trained **Random Forest Classifier** achieved exceptional diagnostic perform
 Below are the evaluation outputs generated from the test dataset:
 
 **Confusion Matrix:**
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](Confusion matrix.png)
 
 **ROC-AUC Curve:**
-![ROC Curve](roc_curve.png)
+![ROC Curve](ROC curve.png)
