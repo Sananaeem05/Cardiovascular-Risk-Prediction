@@ -22,3 +22,18 @@ You can explore the complete interactive Jupyter notebook and run the pipeline d
 2. **Handling Class Imbalance:** Applied **SMOTE** (Synthetic Minority Over-sampling Technique) to balance the training dataset and prevent model bias.
 3. **Model Training:** Trained a robust **Random Forest Classifier** to accurately classify patient risk levels.
 4. **Evaluation:** Evaluated performance metrics using Classification Reports, Confusion Matrices, and ROC-AUC Curves.
+---
+
+## 📈 Evaluation Metrics & Results
+Our trained **Random Forest Classifier** achieved exceptional diagnostic performance on the clinical dataset:
+* **ROC-AUC Score:** **0.94** (indicating high reliability in distinguishing between risk levels)
+* **Handling Imbalance:** Successfully mitigated class bias using `SMOTE` during training.
+
+### Model Visualizations
+Below are the evaluation outputs generated from the test dataset:
+
+**Confusion Matrix:**
+![Confusion Matrix](confusion_matrix.png)
+
+**ROC-AUC Curve:**
+![ROC Curve](roc_curve.png)
