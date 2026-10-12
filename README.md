@@ -28,7 +28,6 @@ You can explore the complete interactive Jupyter notebook and run the pipeline d
 Our trained **Random Forest Classifier** achieved exceptional diagnostic performance on the clinical dataset:
 * **ROC-AUC Score:** **0.94** (indicating high reliability in distinguishing between risk levels)
 * **Handling Imbalance:** Successfully mitigated class bias using `SMOTE` during training.
-
 ### Model Visualizations
 Below are the evaluation outputs generated from the test dataset:
 
