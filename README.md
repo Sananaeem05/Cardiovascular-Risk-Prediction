@@ -13,7 +13,7 @@ An end-to-end machine learning classification pipeline designed to predict cardi
 
 ## 🚀 Quick Start & Exploration
 You can explore the complete interactive Jupyter notebook and run the pipeline directly in your browser using Google Colab:
-👉 **[Open in Google Colab](*Yahan apni Google Colab notebook ka link paste karein*)**
+👉 **[Open and Run in Google Colab](https://colab.research.google.com/drive/YOUR_ACTUAL_LINK)**
 
 ---
 
