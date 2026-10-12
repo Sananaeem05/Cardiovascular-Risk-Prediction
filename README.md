@@ -29,10 +29,9 @@ Our trained **Random Forest Classifier** achieved exceptional diagnostic perform
 * **ROC-AUC Score:** **0.94** (indicating high reliability in distinguishing between risk levels)
 * **Handling Imbalance:** Successfully mitigated class bias using `SMOTE` during training.
 ### Model Visualizations
-Below are the evaluation outputs generated from the test dataset:
 
 **Confusion Matrix:**
-![Confusion Matrix](Confusion matrix.png)
+![Confusion Matrix](Confusion%20matrix.png)
 
 **ROC-AUC Curve:**
-![ROC Curve](ROC curve.png)
+![ROC Curve](ROC%20curve.png)
